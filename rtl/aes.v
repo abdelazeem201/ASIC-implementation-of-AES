@@ -233,5 +233,9 @@ module aes(
                 tmp_read_data = result_reg[(3 - (address - ADDR_RESULT0)) * 32 +: 32];
             end
         end
-    end 
-endmodule 
+    end // addr_decoder
+endmodule // aes
+
+//======================================================================
+// EOF aes.v
+//======================================================================
