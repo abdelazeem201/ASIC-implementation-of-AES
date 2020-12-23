@@ -3,3 +3,5 @@ Advanced encryption standard (AES) algorithm has been widely deployed in cryptog
 
 <img src= "https://github.com/Casear98/ASIC-implementation-of-AES/blob/main/Project%20Pics/AES.jpg">
    
+# *Pre-Synthesis_Simulation by ModelSim*
+<img src= "https://github.com/Casear98/ASIC-implementation-of-AES/blob/main/Project%20Pics/Pre-Synthesis_Simulation.PNG">
